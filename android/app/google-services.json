@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "796499766755",
+    "project_id": "auht-with-phone",
+    "storage_bucket": "auht-with-phone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796499766755:android:4ee25ec21414c346b684d6",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_map_sqflite_omar_ahmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796499766755-96tlhrocrsm1l55g419rrc7ns1fvt7sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_auth_map_sqflite_omar_ahmed",
+            "certificate_hash": "f66559277f63b45b658e99137cde6b9f5e0022df"
+          }
+        },
+        {
+          "client_id": "796499766755-qif1mup64iuk5jr1kgbsvsh72n1il9i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpuqRGlidUAjs18r6v1OS5M79AJkG9cRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796499766755-qif1mup64iuk5jr1kgbsvsh72n1il9i8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "796499766755-jpql9o76b28gtm088trg4julp8u73anm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phoneAuthMapSqfliteOmarAhmed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
