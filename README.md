@@ -26,6 +26,7 @@ Firebase Console → Project Settings → Your Android App → SHA certificate f
 Download the updated google-services.json file and place it in:
 
 android/app/google-services.json
+
 6. Configure Android Project
 
 Add the Google Services classpath in android/build.gradle:
@@ -37,6 +38,7 @@ plugins {
 In android/app/build.gradle:
 
 id("com.google.gms.google-services")
+
 7. Add Required Dependencies
 
 Add the following packages in pubspec.yaml:
@@ -49,11 +51,13 @@ dependencies:
 Then run:
 
 flutter pub get
+
 8. Implement Sign-In Logic
 
 Use Firebase Auth with Google Sign-In to authenticate the user and create a session.
 
 ![Google Sign-In Implementation](assets/google_sign_in%20_logic.png)
+
 9. Run the App
 flutter run
 
